@@ -45,7 +45,7 @@ vagrant destroy -f
 
 ## Errors
 
-Il during installation fatal error occur : 
+If during installation fatal error occur : 
 
 ```
 vagrant destroy -f
