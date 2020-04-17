@@ -22,7 +22,7 @@ Something like this will appear :
 
 Copy this command and : 
 
-- Open Another terminal or exit this one and :
+- Open Another terminal or exit this one :
 
 ```
 vagrant ssh worker-1
@@ -35,7 +35,7 @@ So in the master node, we can do :
 kubectl get nodes
 ```
 
-And master-1 & worker-1 will be appear and in 'Ready' status.
+And master-1 & worker-1 will be appear in 'Ready' status.
 
 ## How to clean up
 
